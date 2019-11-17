@@ -1,5 +1,5 @@
-# ADM-HW-3
-adm hw3
+Homework 3 - What movie to watch tonight?
+
+[Image of Popcorn](https://www.thehits.co.nz/media/6615023/cinema-popcorn.jpg)
 
 
-## For tomorrow: try to extract infobox information at the same way  of the previous section ( title, intro, plot) 
