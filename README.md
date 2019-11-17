@@ -10,9 +10,9 @@
 - Mario Dhimitri
 ## Data collection
 Data were extracted from three html files: 
-- * `movies1.md`
-- * `movies2.md`
-- * `movies3.md`
+ * `movies1.html`
+ * `movies2.html`
+ * `movies3.html`
 
 Each of these files contains 10,000 movies
 
