@@ -4,12 +4,12 @@
 <img src="https://www.thehits.co.nz/media/6615023/cinema-popcorn.jpg?mode=crop&width=620&height=349&quality=60&scale=both" height=430 
 </p>
 
-# Authors: 
+## Authors: 
 - Anna Presciuttini
 - Diletta Abbonato
 - Mario Dhimitri
 
-# The content of the repository is
+## The content of the repository is
 
 * `README.md`: a Markdown file that explains the content of our repository
 * `collector.py`: a python file that contains the line of code needed to collect our data from the `html` page 
