@@ -8,6 +8,12 @@
 - Anna Presciuttini
 - Diletta Abbonato
 - Mario Dhimitri
+## Data collection
+Data were extracted from three html files: 
+- * `movies1.md`
+- * `movies2.md`
+- * `movies3.md`
+Each of these files contains 10,000 movies
 
 ## The content of the repository is
 
