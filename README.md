@@ -25,7 +25,6 @@ Each of these files contains 10,000 movies
 * `parser_utils.py`: a python file that gathers the function we used in `parser.py`.
 * `index.py`: a python file that once executed generate the indexes of the Search engines.
 * `index_utils.py`: a python file that contains the functions we used for creating indexes.
-* `utils.py`: a python file that gather functions needed in more than one of the previous files.
 * `main.py`: a python file that once executed build up the search engine.
 * `exercise_4.py`: python file that contains the implementation of the algorithm that, given a sequence, finds the length of the longest palindromic subsequence
 
