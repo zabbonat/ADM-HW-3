@@ -28,3 +28,7 @@ Each of these files contains 10,000 movies
 * `utils.py`: a python file that gather functions needed in more than one of the previous files.
 * `main.py`: a python file that once executed build up the search engine.
 * `exercise_4.py`: python file that contains the implementation of the algorithm that, given a sequence, finds the length of the longest palindromic subsequence
+
+## Resume
+
+We decided to adopt a group work strategy since we saw each other every day to discuss and jointly carry out the different points of the homework. The work was then carried out together by all the members of our team, sharing the previous skills of each of us.
